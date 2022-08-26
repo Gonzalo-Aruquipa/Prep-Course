@@ -1,0 +1,51 @@
+p {
+    color: darkolivegreen;
+    font-size: 20px;
+}
+
+h1,
+h3,
+h4,
+a {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+span {
+    color: aquamarine;
+}
+
+img {
+    max-width: 400px;
+}
+
+body {
+    background-image: url("https://w.wallhaven.cc/full/k7/wallhaven-k7q9m7.png");
+    align-items: center;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: lightblue;
+    padding: 50px;
+    border: 5px solid darkorchid;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 440px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.barra {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 3rem;
+}
